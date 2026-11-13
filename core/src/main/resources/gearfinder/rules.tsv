@@ -1,0 +1,64 @@
+Fishing	Bait & Groundbait		\b(baits?|boilies?|boilie|pellets?|groundbait|particle|hookbaits?|wafters?|pop[- ]?ups?|stim|dumbells?|tigernuts?|method mix|spod mix)\b
+Fishing	Rods & Reels		\b(rods?|reels?|feeder|baitfeeder|baitrunner|spinning|fly rod)\b
+Fishing	Hooks, Line & Terminal Tackle		\b(hooks?|hooklinks?|hk|swivels?|main ?line|fluorocarbon|braid|leaders?|rigs?|hair[- ]rigs?|shank|bless|barbless|barbed|lures?|floats?|weights?|leads?|spools?|monofilament|shot|sinkers?)\b|\bfishing line\b
+Fishing	Nets, Bags & Accessories		\b(landing net|keepnet|net\b|carp|specimen|angling|fishing|tackle|bank ?stick|rod pod|bivvy table|bedchair|unhooking|scales|scoop|deadbait|bait box|seatbox|pole|catapult|bander|punch)\b
+Cycling	Bikes		\b(bikes?|bicycles?|e-?bike|gravel bike|mountain bike|road bike)\b
+Cycling	Bike Parts & Accessories		\b(tyres?|inner tubes?|saddles?|handlebars?|pedals?|spoke|wrench|puncture|bike pump|mudguards?|bike lights?|derailleur|cassette|chain ?rings?|brake pads?|bottle cages?|pannier|mtb|cycling|cyclist)\b
+Cycling	Protection & Cycle Clothing		\b(elbow pads?|knee pads?|bib shorts?|jersey|cycling shorts?|cycle helmet|bike helmet)\b
+Caravan & Motorhome	Caravan & Motorhome		\b(caravan|motorhome|campervan|12v|leisure battery|hook[- ]?up|awning poles?|mover|towbar|wheel clamp|jockey wheel|water carrier|waste)\b
+Home & Leisure	Games, Toys & Gifts		\b(games?|puzzles?|toys?|yahtzee|cards|lego|plush|colouring|gift|mug set|jigsaw)\b
+Home & Leisure	Animal & Pet		\b(horse|hoof|grooming|equestrian|pony|dog|pet|cat|collar|lead|halter|rug|hay)\b
+Swimwear	Swimwear		\b(swimsuits?|swimwear|bikinis?|board ?shorts?|swim (shorts?|trunks?|briefs?)|watershorts?|one piece|rash (vest|guard)s?|wetsuits?|tankini)\b
+Accessories	Care & Repair		\b(cleaner|proofer|proofing|reproof\w*|nikwax|grangers?|tech wash|down wash|base ?wash|dubbin|seam (grip|sealer|sealant)|sealant|repair (kit|tape|patch(es)?))\b
+Snow Sports	Ski & Snowboard Boots		\b(ski|snowboard|ski touring|splitboard)\s+boots?\b
+Snow Sports	Ski & Snow Clothing		\b(ski|snow|snowboard)\s+(?:\w+\s+){0,2}(jackets?|pants?|trousers?|gloves?|mitts?|socks?|shell|bibs?|suits?|salopettes?|hoodie|layer|beanies?|hats?|tukes?|sweaters?|fleeces?|tops?|base ?layers?|thermals?|mid ?layers?)\b
+Snow Sports	Goggles & Helmets		\b(goggles?|ski helmets?|snow helmets?)\b
+Snow Sports	Avalanche Safety		\b(avalanche|probe|snow shovel|transceiver|beacon|abs)\b
+Snow Sports	Ski Poles & Accessories		\b(ski poles?|snowshoes?|ski bag|ski wax)\b
+Snow Sports	Skis & Snowboards		\b(skis?|snowboards?|splitboards?|bindings?|ski skins?|climbing skins?)\b
+Snow Sports	Ski Poles & Accessories		\b(ski|skiing|snowboarding|snowboard)\b
+Climbing	Harnesses		\bharness(es)?\b
+Climbing	Helmets		\b(climbing|cycling|bike)?\s*helmets?\b
+Climbing	Ropes & Slings		\b(ropes?(?!\s+(?:badge|bag|shoes?|sandals?))|slings?(?!\s+bags?)|tape|dyneema|prusik|webbing(?!\s+(?:sandals?|belts?))|accessory cord|static cord|dynamic cord|cordelette)\b
+Climbing	Protection & Hardware		\b(carabiners?|karabiners?|quickdraws?|belay|cams?|nuts?|hexes|friends|via ferrata|ascender|descender|pulley)\b
+Climbing	Ice & Mountaineering		\b(crampons?|ice axes?|ice tools?|ice screws?|ice climbing|mountaineering axe|axe)\b
+Climbing	Climbing Shoes & Chalk		\b(climbing shoes?|chalk|bouldering|crash pads?|approach shoes?)\b
+Footwear	Insoles, Laces & Gaiters		\b(gaiters?|insoles?|footbeds?|laces|boot bags?|shoe care|replacement soles?|resole|shoe ?horns?|boot dryers?)\b
+Footwear	Socks		\bsocks?\b
+Footwear	Sandals & Slippers		\b(sandals?|sliders?|flip[- ]?flops?|clogs?|slippers?|camp shoes?)\b
+Footwear	Trail Running Shoes		\b(trail|running|fell|racing)\s+(shoes?|trainers?)\b|\btrail runner\b
+Footwear	Walking & Hiking Boots		\b(boots?|wellies|wellingtons?)\b
+Footwear	Shoes & Trainers		\b(shoes?|trainers?|sneakers?|footwear)\b
+Camping	Food & Nutrition		\b(energy (gels?|bars?|chews?|drink)|gels?\b(?=.*\b(caffeine|energy|isotonic)\b)|isotonic|protein|recovery (powder|drink|shake)|electrolytes?|hydration (tabs?|tablets?|mix)|tablets|\d+ ?kcal|kcal|freeze[- ]dried|dry food|camping food|expedition food|meals?|porridge|oats|granola|muesli|flapjacks?|mint cake|pasta|bolognese|curry|chilli|risotto|noodles|stew|breakfast|desserts?|pudding|custard|snacks?|chocolate|food)\b
+Camping	Tents		\b(tents?|bivi|bivvy|bothy|bivouac|shelters?|tarps?|awnings?|footprints?|groundsheets?|tent pegs?|guylines?)\b
+Camping	Sleeping Bags		\b(sleeping bags?|bag liners?|quilts?|sleeping quilt)\b
+Camping	Sleeping Mats & Pillows		\b(sleeping mats?|mats?|mattress|airbed|pillows?|neoair|sleep mat|pad|air pumps?|pump sacks?|pumps?)\b
+Camping	Stoves & Cookware		\b(stoves?|cook ?sets?|cookware|pans?|pots?|kettles?|burners?|gas|cartridges?|jetboil|sporks?|cutlery|mugs?|bowls?|plates?|coffee (press|maker|filter|dripper)|cafetiere|fuel|windshield|cups?)\b
+Camping	Bottles & Water Filters		\b(bottles?|flasks?|hydration|bladders?|reservoirs?|filters?|purif\w*|water carriers?|bottle)\b
+Camping	Lighting		\b(head ?torch(es)?|headlamps?|torch(es)?|lanterns?|lamps?|camp lights?|tent lights?|led lights?|string lights?|solar lights?|bike lights?)\b
+Camping	Furniture & Hammocks		\b(chairs?|tables?|stools?|hammocks?|cots?|beds?)\b
+Camping	Trekking Poles		\b(trekking poles?|walking poles?|poles?|walking sticks?|hiking poles?)\b
+Packs & Bags	Rucksacks		\b(rucksacks?|backpacks?|packs?(?!\s+of\b)(?!-it)|daysacks?|day ?packs?|hydration packs?|running vests?|vest packs?)\b
+Packs & Bags	Dry Bags & Stuff Sacks		\b(dry ?bags?|stuff ?sacks?|compression sacks?|pack liners?|dry ?sacks?|roll top)\b
+Packs & Bags	Bags & Luggage		\b(bags?|holdalls?|duffe?ls?|wash ?bags?|pouch(es)?|wallets?|luggage|totes?|hip packs?|bum ?bags?|waist ?packs?|running belts?|suitcases?|wheeled|organi[sz]ers?|rain ?covers?|packing cubes?|cubes?)\b
+Clothing	Waterproof Jackets		\b(waterproof|hardshell|hard shell|gore-?tex|gtx|rain|shell|paclite|pertex shield)\b.*\b(jackets?|coats?|parkas?|ponchos?|smocks?|anoraks?|cape)\b|\b(jackets?|coats?|parkas?)\b.*\b(waterproof|hardshell|gore-?tex|gtx|shell)\b
+Clothing	Insulated & Down Jackets		\b(down|insulated|insulation|synthetic|primaloft|belay|puffer|puffy|thermoball|hybrid|padded|nano puff|micro puff)\b.*\b(jackets?|coats?|parkas?|gilets?|vests?|hoodys?|hoodies|hoods?)\b|\b(jackets?|hoody|hoodies)\b.*\b(down|insulated|primaloft|synthetic)\b
+Clothing	Fleece & Midlayers		\b(fleeces?|micro ?fleece|pile|polartec|grid fleece|sherpa|mid ?layers?|knitted|knitwear|sweaters?|jumpers?|sweatshirts?|pullovers?|hoody|hoodies?)\b
+Clothing	Softshell & Windproof		\b(softshell|soft shell|windproof|wind jackets?|windshirts?|windshells?|wind shell|windbreaker)\b
+Clothing	Jackets & Gilets		\b(jackets?|coats?|parkas?|anoraks?|gilets?|vests?|bodywarmer|cagoule)\b
+Clothing	Trousers & Leggings		\b(trousers?|pants?|leggings?|tights?|joggers?|bibs?|breeks|salopettes?|overtrousers?|chinos?|jeans)\b
+Clothing	Shorts & Skirts		\b(shorts?|skirts?|skorts?|dress)\b
+Clothing	Base Layers		\b(base ?layers?|thermals?|thermal|merino|long johns|underwear|boxers?|briefs?|sports bra|bra)\b|\b(long|short)[- ]sleeve(d)?\b
+Clothing	Tops & T-Shirts		\b(1\/2 zip|half zip|arm sleeves?|sleeves|t-?shirts?|tees?|shirts?|tops?|polos?|blouses?|tank|crew|zip neck|zip[- ]t|singlets?|vests? tops?)\b
+Clothing	Gloves & Mitts		\b(gloves?|mitts?|mittens?|liners?)\b
+Clothing	Hats & Neckwear		\b(hats?|beanies?|caps?|buffs?|balaclavas?|headbands?|neck ?warmers?|bandanas?|scarf|scarves|visors?|headwear|neckwear|sunhat|neck gaiter|tubes?)\b
+Navigation & Tech	Watches & GPS		\b(watch(es)?|gps|garmin|suunto|altimeter|inreach|satellite|tracker|sat ?comm)\b
+Navigation & Tech	Maps & Books		\b(maps?|guidebooks?|guide books?|books?|guides?|ordnance survey|atlas|compass(es)?)\b
+Navigation & Tech	Power & Solar		\b(chargers?|power ?banks?|solar|batter(y|ies)|usb|cables?)\b
+Navigation & Tech	Electronics & Optics		\b(binoculars?|monoculars?|headphones?|earbuds?|earphones?|speakers?|cameras?|action cam|radios?|walkie[- ]talkies?|phone (case|mount|holder))\b
+Accessories	Sunglasses & Eyewear		\b(sunglasses|glasses|eyewear|goggles?|lenses)\b
+Accessories	Knives & Tools		\b(knife|knives|multi-?tool|saw|axe|hatchet|tool|scissors|trowel)\b
+Accessories	First Aid & Safety		\b(first aid|whistle|survival|emergency|blister|plasters?|midge|insect|repellent|sun ?cream|sunscreen|lip|bivi bag|hand ?warmers?|foot ?warmers?|toe ?warmers?|repel|tick|foil blanket|space blanket|bear spray|(knee|ankle|wrist|elbow|calf|patella) (supports?|wraps?|sleeves?|straps?|braces?)|knee support|anti[- ]chafe|chafing|balm|massage|foam rollers?)\b
+Accessories	Care & Repair		\b(wash(?!\s*bags?)|proofer|proofing|nikwax|granger|repair|patch|tenacious|seam|waterproofing|cleaner|dubbin|wax)\b
+Accessories	Travel & Towels		\b(umbrellas?|towels?|travel (adaptor|adapter|pillow|wallet|kit|lock)|wash ?bags?|toiletr\w*|shower|mosquito nets?|money belts?|padlocks?|luggage (tags?|scales?|locks?|straps?)|ear ?plugs|eye masks?|soap|shampoo)\b
+Clothing	Belts & Accessories		\b(belts?|braces|suspenders|wrist ?bands?|sweatbands?|ear ?muffs?)\b

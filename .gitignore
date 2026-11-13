@@ -6,3 +6,6 @@ build/
 local.properties
 .DS_Store
 .kotlin/
+data/
+dist/
+core/src/test/resources/pages/

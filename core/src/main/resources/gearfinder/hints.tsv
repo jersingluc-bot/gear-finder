@@ -1,0 +1,46 @@
+Swimwear	Swimwear	\b(swimwear|beach)\b
+Cycling	Bike Parts & Accessories	\bcycling\b
+Pet Supplies	Pet Supplies	\bdog (toys|accessories|beds|coats)\b|\bpets?\b
+Camping	Food & Nutrition	sports nutrition|food (&|and|\+) drinks?|camping food|\bnutrition\b
+Clothing	Waterproof Jackets	waterproof jackets|rain jackets|hardshell
+Clothing	Insulated & Down Jackets	insulated jackets|down jackets|insulation
+Clothing	Softshell & Windproof	softshell|windproof
+Clothing	Fleece & Midlayers	fleeces?|sweatshirts|hoodies|knitwear|mid ?layers
+Clothing	Base Layers	base ?layers?|underwear
+Clothing	Tops & T-Shirts	t-shirts|\bshirts\b|\btops\b
+Clothing	Shorts & Skirts	\bshorts\b|skirts|dresses
+Clothing	Trousers & Leggings	trousers|legwear|leggings|\btights\b
+Clothing	Gloves & Mitts	\bgloves\b|mitts
+Clothing	Hats & Neckwear	\bhats\b|beanies|headwear|neckwear
+Footwear	Trail Running Shoes	trail running (shoes|footwear)|running shoes|trail shoes
+Footwear	Walking & Hiking Boots	(walking|hiking|mountain(eering)?) boots
+Footwear	Sandals & Slippers	sandals|slippers|flip flops
+Footwear	Socks	\bsocks\b
+Footwear	Insoles, Laces & Gaiters	insoles|gaiters|laces
+Camping	Lighting	lighting|torches|head ?torches|lanterns
+Camping	Tents	\btents\b|shelters
+Camping	Sleeping Bags	sleeping bags
+Camping	Sleeping Mats & Pillows	sleeping mats|camping mats|airbeds
+Camping	Stoves & Cookware	stoves|camp kitchen|cookware|crockery|cutlery|campsite \+ kitchen
+Camping	Bottles & Water Filters	bottles|flasks|hydration|water (filters|purif)
+Camping	Furniture & Hammocks	furniture|chairs|tables
+Camping	Trekking Poles	(trekking|walking) poles
+Packs & Bags	Rucksacks	rucksacks|daypacks|backpacks|active packs|casual packs|ski daypacks
+Packs & Bags	Dry Bags & Stuff Sacks	dry ?bags|stuff ?sacks
+Packs & Bags	Bags & Luggage	luggage|travel bags|duffels?|holdalls
+Climbing	Climbing Shoes & Chalk	climbing shoes|rock shoes|chalk
+Climbing	Harnesses	harnesses
+Climbing	Ropes & Slings	\bropes\b|slings
+Climbing	Ice & Mountaineering	crampons|ice axes
+Climbing	Protection & Hardware	karabiners|carabiners|quickdraws|climbing hardware|belay devices|protection
+Snow Sports	Ski & Snowboard Boots	(ski|snowboard) boots
+Snow Sports	Goggles & Helmets	goggles|ski helmets|snow helmets
+Snow Sports	Skis & Snowboards	ski equipment skis|\bskis\b|snowboards\b|bindings
+Snow Sports	Ski & Snow Clothing	(ski|snowboard) (jackets|pants|trousers|gloves|socks)
+Navigation & Tech	Maps & Books	\bmaps\b|\bbooks\b|guidebooks
+Navigation & Tech	Watches & GPS	watches|\bgps\b
+Accessories	Sunglasses & Eyewear	sunglasses|eyewear
+Accessories	Knives & Tools	knives|multi-?tools
+Accessories	First Aid & Safety	first aid|insect repell
+Accessories	Care & Repair	care (&|and|\+) repair|aftercare|proofing|cleaning
+Accessories	Travel & Towels	travel accessories|towels|umbrellas|wash ?bags
